@@ -3,8 +3,6 @@
 A simple and practical repository demonstrating how to **train Machine Learning models using Python**.  
 This project focuses on building, training, and evaluating ML models using common Python libraries used in modern AI development.
 
----
-
 ## 📌 Overview
 
 This repository provides a structured workflow for training machine learning models using Python.  
@@ -18,8 +16,6 @@ It includes scripts and examples for:
 
 The goal of this repository is to help developers and students understand the **end-to-end machine learning training pipeline**.
 
----
-
 ## 🚀 Features
 
 - Python-based machine learning workflow
@@ -29,13 +25,9 @@ The goal of this repository is to help developers and students understand the **
 - Easy to modify and extend for custom datasets
 - Beginner-friendly ML structure
 
----
-
 ## 🧠 Machine Learning Workflow
 
 The general pipeline used in this project:
-
----
 
 ## 🛠 Technologies Used
 
