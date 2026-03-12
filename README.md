@@ -27,7 +27,14 @@ The goal of this repository is to help developers and students understand the **
 
 ## 🧠 Machine Learning Workflow
 
-The general pipeline used in this project:
+The general pipeline used in this project :
+
+Typical outputs include:
+- Training accuracy
+- Validation accuracy
+- Confusion matrix
+- Prediction results
+- Model file
 
 ## 🛠 Technologies Used
 
