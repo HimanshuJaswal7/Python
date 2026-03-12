@@ -38,4 +38,4 @@ The general pipeline used in this project:
 - Matplotlib
 - Jupyter Notebook (optional)
 
-These libraries form the core ecosystem commonly used for building machine learning models in Python. :contentReference[oaicite:1]{index=1}
+These libraries form the core ecosystem commonly used for building machine learning models in Python
